@@ -1,0 +1,3 @@
+[submodule "HCSR04-Arduino"]
+	path = HCSR04-Arduino
+	url = https://github.com/theburntcrumpet/HCSR04-Arduino
